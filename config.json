@@ -1,4 +1,4 @@
 {
   "activation_url":
-  "http://192.168.1.13:5500"
+  "https://activation-api-o9cq.onrender.com/activate"
 }
