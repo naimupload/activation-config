@@ -1,4 +1,4 @@
 {
   "activation_url":
-  "https://activation.clinicease.indevs.in//activate"
+  "http://192.168.1.14:5500/activate"
 }
